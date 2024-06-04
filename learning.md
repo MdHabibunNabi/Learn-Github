@@ -12,3 +12,7 @@ this is for what is learned through this follow along tutorial from w3schools
                         main>>main_theme>>main_theme_dark
 
                 so most likely nested branches work, but it can't be visualized which branch is it nested under, so use that naming convention to be clear.
+
+#       Lesson 3:
+                Actually the versioning convention looks better and more readable if an unerscore added between the years, months, and days too. So, new versioning convention:
+                        YYYY_MM_DD_HH_MM_AA 
