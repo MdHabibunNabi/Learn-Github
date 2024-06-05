@@ -16,3 +16,6 @@ this is for what is learned through this follow along tutorial from w3schools
 #       Lesson 3:
                 Actually the versioning convention looks better and more readable if an unerscore added between the years, months, and days too. So, new versioning convention:
                         YYYY_MM_DD_HH_MM_AA 
+
+#       Lesson 4:
+                Can't switch between branches in vs code remote repo extension, need to open that branch in a new window workspace 
