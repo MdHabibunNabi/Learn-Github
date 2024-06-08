@@ -7,3 +7,4 @@ let's add another line in the readme to get multiple files into the staging envi
 same line same position for conflict
 another line added for the update-readme branch AND this is on vs code
 same line different position for conflict
+different line different position in vs code update readme branch
