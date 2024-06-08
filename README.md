@@ -5,3 +5,4 @@ but anyways, this is just readme version 1
 only because i have to use this repo from vs code remote repo
 let's add another line in the readme to get multiple files into the staging environment
 another line added for the update-readme branch
+AND this is on vs code
